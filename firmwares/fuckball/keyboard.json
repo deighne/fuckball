@@ -1,0 +1,30 @@
+{
+    "keyboard_name": "ABallRP2040",
+    "manufacturer": "deighne",
+    "usb": {
+        "vid": "0x444D",
+        "pid": "0x3435",
+        "device_version": "0.0.1"
+    },
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "features": {
+        "bootmagic": true,
+        "mousekey": true,
+        "extrakey": false,
+        "pointing_device": true
+    },
+    "matrix_pins": {
+        "direct": [
+            [null]
+        ]
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"x": 0, "y": 0, "matrix": [0, 0]}
+            ]
+        }
+    }
+
+}
