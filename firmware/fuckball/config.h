@@ -18,8 +18,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // #define SPI_DRIVER SPID0
 #define PMW33XX_LIFTOFF_DISTANCE 0x00
-#define PMW33XX_CS_PIN GP5
-#define SPI_SCK_PIN GP2
+#define PMW33XX_CS_PIN GP13
+#define SPI_SCK_PIN GP10
 #define SPI_MISO_PIN GP4
 #define SPI_MOSI_PIN GP7
 // #define ROTATIONAL_TRANSFORM_ANGLE -180 // Optional: Rotates the trackball
