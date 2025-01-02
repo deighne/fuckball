@@ -7,6 +7,7 @@ The biggest changes are:
 - Built to use PMW3360 / PMW3389 breakout boards
 - RP2040-Zero Board to keep things small and modern
 - Footprint designed to sit alongside [Sofle v2](https://github.com/josefadamcik/SofleKeyboard) on either side
+- A single button, as a treat
 
 ## What's the point?
 
