@@ -15,11 +15,11 @@ I really like the simplicity of the aball design, but found its quirks kind of i
 
 ## Why the breakout board and not sensor only? 
 
-At the time of writing (December 2024), the cost difference between just a PMW3389 sensor and the sensor + breakout board with presoldered pins is just a few bucks; it's cheaper to buy the board than to get a custom PCB with assembly like the [Jfedor2 RP2040 + PMW3360 board](https://github.com/jfedor2/rp2040-pmw3360).
+At the time of writing (December 2024), the cost difference between just a PMW3389 sensor and the sensor + breakout board with presoldered pins is just a few bucks; it's cheaper to buy the board than to get a custom PCB with assembly like the [Jfedor2 RP2040 + PMW3360 board](https://github.com/jfedor2/rp2040-pmw3360). That should make this more flexible to use other sensors in the future with the same breakout!
 
 ## License etc.
 
-GPLv3!
+GPLv3! Do something weird with this design please.
 
 ## Fuckball?
 
@@ -32,7 +32,7 @@ The name wasn't already taken?
 
 ## Sources and Inspiration
 
-[Aball](https://github.com/brickbots/aball)
-[Ploopy Adept](https://github.com/ploopyco/adept-trackball))
-[Sofle](https://github.com/josefadamcik/SofleKeyboard)
-[RP2040+PMW3360](https://github.com/jfedor2/rp2040-pmw3360)
+- [Aball](https://github.com/brickbots/aball)
+- [Ploopy Adept](https://github.com/ploopyco/adept-trackball))
+- [Sofle](https://github.com/josefadamcik/SofleKeyboard)
+- [RP2040+PMW3360](https://github.com/jfedor2/rp2040-pmw3360)
