@@ -1,6 +1,6 @@
 # FUCKBALL
 
-This trackball is a modern twist on [Brickbots' aball](https://github.com/brickbots/aball) with a lot of inspiration from the [Ploopy Adept](https://github.com/ploopyco/adept-trackball). 
+This trackball is my update and twist on [Brickbots' aball](https://github.com/brickbots/aball) with a lot of inspiration from the [Ploopy Adept](https://github.com/ploopyco/adept-trackball). 
 
 The biggest changes are:
 
@@ -19,6 +19,18 @@ At the time of writing (December 2024), the cost difference between just a PMW33
 ## License etc.
 
 GPLv3!
+
+## Fuckball?
+
+The name wasn't already taken?
+
+## Status
+
+- Gerber files and Kicad are a prototype design; has not yet been printed. No guarantees! (There never are with open source any way)
+- 3D print file for the ball mount needs to be adjusted to match PCB constraints
+- Pinout on firmware does not match PCB
+- Base plate needs cutouts for boot and reset switches
+- Needs BOM, guide, etc. etc. 
 
 ## Sources and Inspiration
 
